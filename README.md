@@ -73,10 +73,10 @@ print(best_recipes[["item_name", "craft_cost", "sell_price", "profit"]])
 
 ## 🖼 Examples
 📌 **Best crafting recipes for maximum profit:**  
-![Crafting Profit](assets/crafting_profit_example.png)  
+![Crafting Profit](1.jpg)  
 
 📌 **Market price trends for items:**  
-![Market Trends](assets/market_trends_example.png)  
+![Market Trends](2.jpg)  
 
 ---
 
