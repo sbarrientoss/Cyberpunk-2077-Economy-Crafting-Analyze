@@ -1,0 +1,5 @@
+{
+    "cloud_data_url": "https://your-cloud-storage-link.com/cyberpunk_data.json",
+    "default_sort": "profitability",
+    "update_frequency": "daily"
+}
